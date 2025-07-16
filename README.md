@@ -27,13 +27,4 @@ Here are some ideas to get you started:
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tamrachan&limit=5&theme=react&combine_all_yearly_contributions=true)
-
-## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=tamrachan&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamrachan&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tamrachan&theme=react&no-frame=false&no-bg=true&margin-w=4)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
